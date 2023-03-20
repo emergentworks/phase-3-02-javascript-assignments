@@ -10,8 +10,8 @@
 
 ### Explain prototypal inheritance.
 
-###Understand the basic do’s and don’t’s of prototypical inheritance.
+### Understand the basic do’s and don’t’s of prototypical inheritance.
 
-###Explain what Object.create does.
+### Explain what Object.create does.
 
-###How does this behave in different situations?
+### How does this behave in different situations?
