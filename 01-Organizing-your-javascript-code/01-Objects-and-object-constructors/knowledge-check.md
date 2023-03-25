@@ -3,9 +3,9 @@
 [Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-objects-and-object-constructors#knowledge-check)
 
 ### Write an object constructor and instantiate the object.
-```
-//code here
-```
+
+[Code here](constructorForBookObject.js)
+
 ### Describe what a prototype is and how it can be used.
 
 ### Explain prototypal inheritance.
