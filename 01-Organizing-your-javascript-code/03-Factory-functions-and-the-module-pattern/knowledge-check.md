@@ -5,9 +5,9 @@
 ### Describe common bugs you might run into using constructors.
 
 ### Write a factory method that returns an object.
-```
-// code here
-```
+
+[Code here](factoryMethodThatReturnsObject)
+
 ### Explain how scope works in JavaScript (bonus points if you can point out what ES6 changed!).
 
 ### Explain what Closure is and how it impacts private functions & variables.
