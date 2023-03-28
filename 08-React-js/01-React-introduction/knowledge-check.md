@@ -1,6 +1,4 @@
-# React Introduction
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-react-introduction)
+# [React Introduction][def]
 
 ### Why should you learn React?
 
@@ -16,3 +14,6 @@
 
 ### Instead of the DOM tree, what is displayed when you inspect an element using the Components tab provided by React Developer Tools
 
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-react-introduction#knowledge-check

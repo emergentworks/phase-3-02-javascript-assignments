@@ -1,6 +1,4 @@
-# Common Data Structures And Algorithms
-
-[Odin Link](https://www.theodinproject.com/lessons/javascript-common-data-structures-and-algorithms)
+# [Common Data Structures And Algorithms][def]
 
 ### What is the difference between a stack and a queue?
 
@@ -14,3 +12,6 @@
 
 ### What abstract data type would you use to defer/store nodes in a depth-first tree traversal?
 
+
+
+[def]: https://www.theodinproject.com/lessons/javascript-common-data-structures-and-algorithms#knowledge-check

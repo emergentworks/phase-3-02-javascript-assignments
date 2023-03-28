@@ -1,6 +1,4 @@
-# Recursive Methods
-
-[Odin Link](https://www.theodinproject.com/lessons/javascript-recursive-methods)
+# [Recursive Methods][def]
 
 ### How would you briefly define a recursive function?
 
@@ -9,3 +7,6 @@
 ### What are the 2 essential parts in a recursive function?
 
 ### Why is “stack overflow” relevant to a recursive problem?
+
+
+[def]: https://www.theodinproject.com/lessons/javascript-recursive-methods#knowledge-check

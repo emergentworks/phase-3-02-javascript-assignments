@@ -1,6 +1,4 @@
-# Router
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-router)
+# [Router][def]
 
 ### What is Client-side routing?
 
@@ -9,3 +7,6 @@
 ### What are the three core components of React Router?
 
 ### How do you ensure that Router links are routed accurately?
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-router#knowledge-check

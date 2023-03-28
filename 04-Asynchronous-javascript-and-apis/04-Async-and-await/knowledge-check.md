@@ -1,6 +1,4 @@
-# Async And Await
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-async-and-await)
+# [Async And Await][def]
 
 ### How do you declare an async function?
 
@@ -13,3 +11,6 @@
 ### What happens when an error is thrown inside an async function?
 
 ### How can you handle errors inside an async function?
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-async-and-await#knowledge-check

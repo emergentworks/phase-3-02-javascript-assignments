@@ -1,6 +1,4 @@
-# Space Complexity
-
-[Odin Link](https://www.theodinproject.com/lessons/javascript-space-complexity)
+# [Space Complexity][def]
 
 ### What is space complexity?
 
@@ -8,3 +6,6 @@
 
 ### What are the main considerations we should consider before optimising code?
 
+
+
+[def]: https://www.theodinproject.com/lessons/javascript-space-complexity#knowledge-check

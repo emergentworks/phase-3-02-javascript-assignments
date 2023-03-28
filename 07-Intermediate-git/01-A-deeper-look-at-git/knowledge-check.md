@@ -1,6 +1,4 @@
-# A Deeper Look At Git
-
-[Odin Link](https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git)
+# [A Deeper Look At Git][def]
 
 ### How can you amend your last commit?
 
@@ -13,3 +11,6 @@
 ### What are best practices of history-changing operations?
 
 ### Explain what it means for branches to be pointers
+
+
+[def]: https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git#knowledge-check

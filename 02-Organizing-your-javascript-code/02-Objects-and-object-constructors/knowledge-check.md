@@ -1,6 +1,4 @@
-# Object and Object Constructors
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-objects-and-object-constructors#knowledge-check)
+# [Object and Object Constructors](https://www.theodinproject.com/lessons/node-path-javascript-objects-and-object-constructors#knowledge-check#knowledge-check)
 
 ### Write an object constructor and instantiate the object.
 

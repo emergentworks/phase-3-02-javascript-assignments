@@ -1,12 +1,10 @@
-# Factory Functions And The Module Pattern
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern#knowledge-check)
+# [Factory Functions And The Module Pattern][def]
 
 ### Describe common bugs you might run into using constructors.
 
 ### Write a factory method that returns an object.
 
-[Code here](factoryMethodThatReturnsObject)
+[Code here](factoryMethodThatReturnsObject.js)
 
 ### Explain how scope works in JavaScript (bonus points if you can point out what ES6 changed!).
 
@@ -21,3 +19,6 @@
 ### Describe IIFE. What does it stand for?
 
 ### Briefly explain namespacing and how it’s useful.
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern#knowledge-check#knowledge-check

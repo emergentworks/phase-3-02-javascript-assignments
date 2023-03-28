@@ -1,6 +1,4 @@
-# More Testing
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-more-testing)
+# [More Testing][def]
 
 ### What is tightly coupled code?
 
@@ -21,3 +19,6 @@
 ### Should you test private methods?
 
 ### Why should you not test messages with no side effects?
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-more-testing#knowledge-check

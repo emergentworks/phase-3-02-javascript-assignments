@@ -1,6 +1,4 @@
-# ES6 Modules
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-es6-modules)
+# [ES6 Modules][def]
 
 ### Explain what npm is and where it was commonly used before being adopted on the frontend
 
@@ -24,3 +22,6 @@
 
 ### Explain “named exports” and “default exports”.
 
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-es6-modules#knowledge-check
