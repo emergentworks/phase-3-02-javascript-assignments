@@ -6,7 +6,7 @@
 
 ### Write a factory method that returns an object.
 
-[Code here](factoryMethodThatReturnsObject)
+[Code here](factoryMethodThatReturnsObject.js)
 
 ### Explain how scope works in JavaScript (bonus points if you can point out what ES6 changed!).
 
