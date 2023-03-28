@@ -1,6 +1,4 @@
-# Factory Functions And The Module Pattern
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern#knowledge-check)
+# [Factory Functions And The Module Pattern][def]
 
 ### Describe common bugs you might run into using constructors.
 
@@ -21,3 +19,6 @@
 ### Describe IIFE. What does it stand for?
 
 ### Briefly explain namespacing and how it’s useful.
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern#knowledge-check#knowledge-check

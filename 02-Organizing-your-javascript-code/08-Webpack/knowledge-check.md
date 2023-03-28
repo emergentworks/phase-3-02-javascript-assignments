@@ -1,6 +1,4 @@
-# WebPack
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-webpack)
+# [WebPack][def]
 
 ### How do you load CSS using webpack?
 
@@ -12,3 +10,6 @@
 
 ### How would you track errors in bundled source code?
 
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-webpack#knowledge-check

@@ -1,5 +1,4 @@
-# OOP Principles
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-oop-principles)
+# [OOP Principles][def]
 
 ### Explain the “Single Responsibility Principle”.
 
@@ -7,3 +6,6 @@
 
 ### Explain what “tightly coupled” objects are and why we want to avoid them.
 
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-oop-principles#knowledge-check

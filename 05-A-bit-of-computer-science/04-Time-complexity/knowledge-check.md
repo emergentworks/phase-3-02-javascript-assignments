@@ -1,6 +1,4 @@
-# Time Complexity
-
-[Odin Link](https://www.theodinproject.com/lessons/javascript-time-complexity)
+# [Time Complexity][def]
 
 ### What is Big O?
 
@@ -9,3 +7,6 @@
 ### Why use Big O?
 
 ### What is Big Omega and why isn’t it as useful?
+
+
+[def]: https://www.theodinproject.com/lessons/javascript-time-complexity#knowledge-check

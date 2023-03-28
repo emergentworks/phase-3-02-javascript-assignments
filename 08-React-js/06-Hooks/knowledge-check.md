@@ -1,6 +1,4 @@
-# Hooks
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-hooks)
+# [Hooks][def]
 
 ### How do you declare state in a functional component?
 
@@ -9,3 +7,6 @@
 ### How do you mimic componentDidMount, componentDidUpdate and componentWillUnmount in a functional component?
 
 ### Explain how the dependency array in the useEffect hook impacts the effect of the hook?
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-hooks#knowledge-check

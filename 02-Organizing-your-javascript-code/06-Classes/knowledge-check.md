@@ -1,6 +1,4 @@
-# Classes
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-classes)
+# [Classes][def]
 
 ### Describe the pros and cons of using classes in JavaScript.
 
@@ -20,3 +18,6 @@
 
 ### Why is favoring Composition over Inheritance suggested?
 
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-classes#knowledge-check
