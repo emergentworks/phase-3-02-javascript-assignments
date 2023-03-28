@@ -1,6 +1,4 @@
-# React Testing Part 1
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-react-testing-part-1)
+# [React Testing Part 1][def]
 
 ### What packages are required for React testing?
 
@@ -15,3 +13,6 @@
 ### What is the advantage of snapshot tests?
 
 ### What are the disadvantages of snapshot tests?
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-react-testing-part-1#knowledge-check

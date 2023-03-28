@@ -1,6 +1,4 @@
-# Advanced Concepts
-
-[Odin Link](https://www.theodinproject.com/lessons/node-path-javascript-advanced-concepts)
+# [Advanced Concepts][def]
 
 ### What are PropTypes and why can it be beneficial to use them?
 
@@ -13,3 +11,6 @@
 ### What is a High-order Component?
 
 ### How can you create your own Hooks?
+
+
+[def]: https://www.theodinproject.com/lessons/node-path-javascript-advanced-concepts#knowledge-check
