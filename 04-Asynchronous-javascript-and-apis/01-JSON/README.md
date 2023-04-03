@@ -1,4 +1,4 @@
-# JSON
+# [JSON](https://www.theodinproject.com/lessons/node-path-javascript-json)
 
 There are no deliverables for this lesson.
 
