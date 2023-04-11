@@ -1,3 +1,2 @@
-# Phase 3 Assignments
+# Assignments for Phase 3 Course 2 - JavaScript
 
-This repo is associated with the knowledge check deliverable found [here](https://mikecargal.github.io/curriculum/phase3).
