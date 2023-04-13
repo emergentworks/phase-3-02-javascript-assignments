@@ -1,26 +1,26 @@
 # [ES6 Modules][def]
 
-### Explain what npm is and where it was commonly used before being adopted on the frontend
+## Explain what npm is and where it was commonly used before being adopted on the frontend
 
-### Describe what npm init does and what package.json is
+## Describe what npm init does and what package.json is
 
-### Know how to install packages using npm
+## Know how to install packages using npm
 
-### Describe what a JavaScript module bundler like webpack is
+## Describe what a JavaScript module bundler like webpack is
 
-### Explain what the concepts “entry” and “output” mean as relates to webpack
+## Explain what the concepts “entry” and “output” mean as relates to webpack
 
-### Briefly explain what a development dependency is
+## Briefly explain what a development dependency is
 
-### Explain what “transpiling code” means and how it relates to frontend development
+## Explain what “transpiling code” means and how it relates to frontend development
 
-### Briefly describe what a task runner is and how it’s used in frontend development
+## Briefly describe what a task runner is and how it’s used in frontend development
 
-### Describe how to write an npm automation script
+## Describe how to write an npm automation script
 
-### Explain one of the main benefits of writing code in modules
+## Explain one of the main benefits of writing code in modules
 
-### Explain “named exports” and “default exports”.
+## Explain “named exports” and “default exports”.
 
 
 

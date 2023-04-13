@@ -1,10 +1,10 @@
 # [OOP Principles][def]
 
-### Explain the “Single Responsibility Principle”.
+## Explain the “Single Responsibility Principle”.
 
-### Briefly explain the additional SOLID principles.
+## Briefly explain the additional SOLID principles.
 
-### Explain what “tightly coupled” objects are and why we want to avoid them.
+## Explain what “tightly coupled” objects are and why we want to avoid them.
 
 
 

@@ -1,10 +1,10 @@
 # [Space Complexity][def]
 
-### What is space complexity?
+## What is space complexity?
 
-### How do we measure space complexity?
+## How do we measure space complexity?
 
-### What are the main considerations we should consider before optimising code?
+## What are the main considerations we should consider before optimising code?
 
 
 
